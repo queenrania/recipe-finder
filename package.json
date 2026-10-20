@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+   "homepage": "https://queenrania.github.io/recipe-finder/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
